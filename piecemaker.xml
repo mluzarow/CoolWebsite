@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Piecemaker>
   <Contents>
-    <Image Source="contents/piecemaker1.png" Title="Project One">
+    <Image Source="contents/piecemaker1.png" Title="Image01">
 		<Text>&lt;h1&gt;New hot Features&lt;/h1&gt;&lt;p&gt;The all new Piecemaker comes with lots of new features, making it even more slick.&lt;/p&gt;&lt;p&gt;Just to mention a few - you can now specify unlimited transition styles, include your own SWF and Video files, add hyperlinks to images and info texts with all special characters.&lt;/p&gt;&lt;p&gt;We also impoved the navigation and the animation with animated shadows and pixel-perfect transitions.&lt;/p&gt;</Text>
 		<Hyperlink URL="http://www.templatemo.com" Target="_blank" />
-	</Image>		
-    <Image Source="contents/piecemaker2.png" Title="Project Two">
+    </Image>		
+    <Image Source="contents/piecemaker2.png" Title="Image02">
       <Text>&lt;h1&gt;New hot Features&lt;/h1&gt;&lt;p&gt;This 3D Piecemake slider is integrated with Work Center template from templatemo.com website. The all new Piecemaker comes with lots of new features, making it even more slick.&lt;/p&gt;&lt;p&gt;Just to mention a few - you can now specify unlimited transition styles, include your own SWF and Video files, add hyperlinks to images and info texts with all special characters.&lt;/p&gt;&lt;p&gt;We also impoved the navigation and the animation with animated shadows and pixel-perfect transitions.&lt;/p&gt;</Text>
       <Hyperlink URL="http://www.templatemo.com/page/1" Target="_blank" />
     </Image>
-	<Image Source="contents/piecemaker3.png" Title="Project Three">
+	<Image Source="contents/piecemaker3.png" Title="Image03">
       <Text>&lt;h1&gt;New hot Features&lt;/h1&gt;&lt;p&gt;The all new Piecemaker comes with lots of new features, making it even more slick.&lt;/p&gt;&lt;p&gt;Just to mention a few - you can now specify unlimited transition styles, include your own SWF and Video files, add hyperlinks to images and info texts with all special characters.&lt;/p&gt;&lt;p&gt;We also impoved the navigation and the animation with animated shadows and pixel-perfect transitions.&lt;/p&gt;</Text>
       <Hyperlink URL="http://www.templatemo.com/page/2" Target="_blank" />
     </Image>
-	<Image Source="contents/piecemaker4.png" Title="Project Four">
+	<Image Source="contents/piecemaker4.png" Title="Image04">
       <Text>&lt;h1&gt;New hot Features&lt;/h1&gt;&lt;p&gt;The all new Piecemaker comes with lots of new features, making it even more slick.&lt;/p&gt;&lt;p&gt;Just to mention a few - you can now specify unlimited transition styles, include your own SWF and Video files, add hyperlinks to images and info texts with all special characters.&lt;/p&gt;&lt;p&gt;We also impoved the navigation and the animation with animated shadows and pixel-perfect transitions. Visit www.flashmo.com to download free flash templates.&lt;/p&gt;</Text>
       <Hyperlink URL="http://www.templatemo.com/page/3" Target="_blank" />
     </Image>
